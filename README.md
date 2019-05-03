@@ -1,4 +1,5 @@
-# reactiveContent http://10.102.10.32/getting-started-at-call-box/1-2-1
+# reactiveContent 
+Exersise Two: http://10.102.10.32/getting-started-at-call-box/1-2-1
 Create a page that contains content of your choosing as well as spans of text that utilize javascript or jQuery to toggle the display setting of different elements on your page when clicked. While you can style the page in whatever way you wish, style these spans to look different from the rest of your text so their function is apparent.
 
 Things to research for this:
